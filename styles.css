@@ -11,7 +11,9 @@
   --max-width: 1200px;
 }
 
-
+#num{
+  color:red;
+}
 /* Placeholder font size */
 .form-group input::placeholder, .input_name::placeholder {
   font-size: 15px; /* Sesuaikan ukuran yang diinginkan */
