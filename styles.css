@@ -12,6 +12,15 @@
 }
 
 
+/* Placeholder font size */
+.form-group input::placeholder, .input_name::placeholder {
+  font-size: 15px; /* Sesuaikan ukuran yang diinginkan */
+}
+
+textarea::placeholder{
+  font-size: 16px;
+}
+
 
 * {
   padding: 0;
