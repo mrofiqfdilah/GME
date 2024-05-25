@@ -435,7 +435,7 @@ label {
     margin-left: 30px;
     width: 108%;
     height: 525px;
-    margin-top: -10px;
+    margin-top: -40px;
   }
 
   .nav__logo {
@@ -446,7 +446,7 @@ label {
   }
 
   .header__container{
-    margin-top: -80px;
+    margin-top: -10px;
   }
 
   .row {
