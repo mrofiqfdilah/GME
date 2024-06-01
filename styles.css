@@ -84,7 +84,6 @@ body {
   background-image: url("assets/background.png");
   background-size: cover; /* Untuk menutupi seluruh area body */
     background-position: center; /* Untuk mengatur posisi gambar pada tengah body */
-  overflow-y: hidden;
     background-repeat: no-repeat; /* Untuk mencegah pengulangan gambar pada background */
 }
 
